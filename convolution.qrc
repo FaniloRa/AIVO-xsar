@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="convolution">
+    <file>convolution.png</file>
+  </qresource>
+</RCC>

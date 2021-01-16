@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="histogram">
+    <file>histogram.png</file>
+  </qresource>
+</RCC>

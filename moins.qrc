@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="moinss">
+    <file>moins_zoom.png</file>
+  </qresource>
+</RCC>

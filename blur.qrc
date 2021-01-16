@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="blur">
+    <file>blur.png</file>
+  </qresource>
+</RCC>
